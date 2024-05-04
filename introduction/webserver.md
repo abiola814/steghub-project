@@ -13,8 +13,6 @@ sudo apt update
 sudo apt install apache2
 ```
 
-````
-
 ### CentOS/RHEL:
 
 ```bash
@@ -173,4 +171,7 @@ Apache can act as a reverse proxy to forward requests to backend servers or appl
 ```
 
 Replace `example.com` with your domain name and `backend-server-ip` and `backend-port` with the IP address and port of your backend server or application.
-````
+
+```
+
+```
