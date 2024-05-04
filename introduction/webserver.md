@@ -1,6 +1,3 @@
-Here's a markdown guide on how to set up an Apache web server:
-
-````markdown
 # Setting Up Apache Web Server for Frontend
 
 Apache HTTP Server, commonly referred to as Apache, is a widely used open-source web server software. It's known for its reliability, flexibility, and performance.
@@ -15,6 +12,7 @@ Apache is available in the package repositories of most Linux distributions. You
 sudo apt update
 sudo apt install apache2
 ```
+
 ````
 
 ### CentOS/RHEL:
@@ -175,3 +173,4 @@ Apache can act as a reverse proxy to forward requests to backend servers or appl
 ```
 
 Replace `example.com` with your domain name and `backend-server-ip` and `backend-port` with the IP address and port of your backend server or application.
+````
