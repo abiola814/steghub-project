@@ -147,4 +147,4 @@ Access the PHP info page in your browser:
 http://your_server_ip/info.php
 ```
 
-You've successfully deployed a LAMP stack on your Ubuntu server. You can now host dynamic websites and web apps written in PHP.
+We've successfully deployed a LAMP stack on your Ubuntu server. You can now host dynamic websites and web apps written in PHP.
