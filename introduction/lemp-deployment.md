@@ -78,8 +78,8 @@ sudo nginx -t
 sudo systemctl reload nginx
 ```
 
-![index.html image](https://drive.google.com/file/d/1a8tu-m2xM1bv5-mSXokeFU-bg7c3AlxJ/view?usp=sharing)
-![index.html image](https://drive.google.com/file/d/1EexLvKyjwx8bh3yRxqYzBOpRV2yjhrTA/view?usp=sharing)
+![index.html image](https://drive.google.com/uc?export=view&id=1a8tu-m2xM1bv5-mSXokeFU-bg7c3AlxJ)
+![index.html image](https://drive.google.com/uc?export=view&id=1EexLvKyjwx8bh3yRxqYzBOpRV2yjhrTA)
 
 ## Step 5 – Testing PHP with Nginx
 
@@ -102,7 +102,7 @@ Access the file in your browser:
 http://server_domain_or_IP/info.php
 ```
 
-![info.php image](https://drive.google.com/file/d/1zqmS-X2mhJKds5zHiyTNwy4_Is2oDVDq/view?usp=sharing)
+![info.php image](https://drive.google.com/uc?export=view&id=1zqmS-X2mhJKds5zHiyTNwy4_Is2oDVDq)
 
 ## Step 6 – Testing Database Connection from PHP (Optional)
 
