@@ -158,5 +158,3 @@ Access the script in your browser:
 ```
 http://server_domain_or_IP/todo_list.php
 ```
-
-## Conclusion
