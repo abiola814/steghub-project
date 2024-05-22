@@ -73,7 +73,8 @@
      CREATE USER 'remote_user'@'%' IDENTIFIED BY 'password';
      GRANT ALL PRIVILEGES ON *.* TO 'remote_user'@'%' WITH GRANT OPTION;
      FLUSH PRIVILEGES;
-    ```
+     ```
+
     ![index.html image](https://drive.google.com/uc?export=view&id=1KrScyKNExT4EHItGRZ2u7aBA3The2Ggo)
 
 
