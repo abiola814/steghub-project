@@ -29,7 +29,7 @@ SMB is like having a special set of rules that allows friends (computers) in a n
 6. Internet Small Computer System Interface (iSCSI)
 iSCSI is like a magic tunnel that connects your toy box (storage) directly to your computer over the internet. It makes your computer think the toy box is just an extension of its own storage space, even though it’s far away. It’s like having a long arm that can reach out and grab toys from a distant shelf.
 
-![image](image/Screenshot 2024-07-07 at 03.42.50.png)
+![image](image/r.png)
 
 ## Components needed
 
